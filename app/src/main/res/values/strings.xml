@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraTest</string>
+
+    <string name="no_permission">No Permission</string>
+</resources>
